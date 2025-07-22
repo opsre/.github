@@ -1,6 +1,14 @@
-# opsre
+<div align="center">
 
-🧰 全世界运维人员联合起来 | The Operations Personnel Of The World Unite
+<h1>opsre</h1>
+
+<img src="https://img.shields.io/github/stars/opsre?color=B31312&style=flat&logo=tinder&logoColor=FFE569&cacheSeconds=120" width=""/>
+
+<p> 🧰 全世界运维人员联合起来 | The Operations Personnel Of The World Unite </p>
+
+<img src="https://cnb.cool/66666/resource/-/git/raw/main/img/hengtiao.gif" width="100%"  height="3">
+
+</div>
 
 优秀的运维人，加入进来吧。
 
@@ -20,15 +28,16 @@
 
 ## 项目列表
 
-|                        Project                         |                            Stars                              |                            Forks                             |              Remark              |
-| :----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------: |
-| [Thanks-Mirror](https://github.com/opsre/Thanks-Mirror) | ![](https://img.shields.io/github/stars/opsre/Thanks-Mirror?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/opsre/Thanks-Mirror?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 📥 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。 |
-| [go-ldap-admin](https://github.com/opsre/go-ldap-admin) | ![](https://img.shields.io/github/stars/opsre/go-ldap-admin?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/opsre/go-ldap-admin?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🌉 基于Go+Vue实现的openLDAP后台管理项目 |
-| [go-ldap-admin-ui](https://github.com/opsre/go-ldap-admin-ui) | ![](https://img.shields.io/github/stars/opsre/go-ldap-admin-ui?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/opsre/go-ldap-admin-ui?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🌉 go-ldap-admin项目对应前端项目 |
-| [awesome-ops](https://github.com/opsre/awesome-ops) | ![](https://img.shields.io/github/stars/opsre/awesome-ops?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/opsre/awesome-ops?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🧰 记录每一个与运维相关的优秀项目 |
-| [WatchAlert](https://github.com/opsre/WatchAlert) | ![](https://img.shields.io/github/stars/opsre/WatchAlert?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/opsre/WatchAlert?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🚀一款轻量级云原生多数据源监控告警引擎, 支持 AI 智能告警分析, 快来用它升级你们的监控系统架构吧！ |
-| [WatchAlert-web](https://github.com/opsre/WatchAlert-web) | ![](https://img.shields.io/github/stars/opsre/WatchAlert-web?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/opsre/WatchAlert-web?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🖼️ WatchAlert对应前端项目 |
-| [cloud_dns_exporter](https://github.com/opsre/cloud_dns_exporter) | ![](https://img.shields.io/github/stars/opsre/cloud_dns_exporter?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/opsre/cloud_dns_exporter?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🧰 自动获取DNS提供商的域名及解析列表，同时自动获取每个域名解析的证书信息，并导出为Prometheus Metrics。已支持：Tencent，Aliyun，Godaddy，DNSLA，Amazon，Cloudflare |
-| [JenkinsGuide](https://github.com/opsre/JenkinsGuide) | ![](https://img.shields.io/github/stars/opsre/JenkinsGuide?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/opsre/JenkinsGuide?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 🧰 Jenkins全知全解，与Jenkins相关的笔记 |
-| [LiteOps](https://github.com/opsre/LiteOps) | ![](https://img.shields.io/github/stars/opsre/LiteOps?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/opsre/LiteOps?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 轻量级DevOps平台。简单、高效的CI/CD解决方案 |
-| [version_manager](https://github.com/opsre/version_manager) | ![](https://img.shields.io/github/stars/opsre/version_manager?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/opsre/version_manager?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 一站式版本管理、文件存储与权限控制解决方案 |
+
+|                           Project                            |                            Stars                             |                            Remark                            |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|   [Thanks-Mirror](https://github.com/opsre/Thanks-Mirror)    | ![](https://img.shields.io/github/stars/opsre/Thanks-Mirror?color=f2f08d&logo=Undertale&logoColor=eb4630) | 📥 整理记录各个包管理器，系统镜像，以及常用软件的好用镜像，Thanks Mirror。 |
+|   [go-ldap-admin](https://github.com/opsre/go-ldap-admin)    | ![](https://img.shields.io/github/stars/opsre/go-ldap-admin?color=f2f08d&logo=Undertale&logoColor=eb4630) |            🌉 基于Go+Vue实现的openLDAP后台管理项目            |
+| [go-ldap-admin-ui](https://github.com/opsre/go-ldap-admin-ui) | ![](https://img.shields.io/github/stars/opsre/go-ldap-admin-ui?color=f2f08d&logo=Undertale&logoColor=eb4630) |               🌉 go-ldap-admin项目对应前端项目                |
+|     [awesome-ops](https://github.com/opsre/awesome-ops)      | ![](https://img.shields.io/github/stars/opsre/awesome-ops?color=f2f08d&logo=Undertale&logoColor=eb4630) |               🧰 记录每一个与运维相关的优秀项目               |
+|      [WatchAlert](https://github.com/opsre/WatchAlert)       | ![](https://img.shields.io/github/stars/opsre/WatchAlert?color=f2f08d&logo=Undertale&logoColor=eb4630) | 🚀一款轻量级云原生多数据源监控告警引擎, 支持 AI 智能告警分析, 快来用它升级你们的监控系统架构吧！ |
+|  [WatchAlert-web](https://github.com/opsre/WatchAlert-web)   | ![](https://img.shields.io/github/stars/opsre/WatchAlert-web?color=f2f08d&logo=Undertale&logoColor=eb4630) |                   🖼️ WatchAlert对应前端项目                   |
+| [cloud_dns_exporter](https://github.com/opsre/cloud_dns_exporter) | ![](https://img.shields.io/github/stars/opsre/cloud_dns_exporter?color=f2f08d&logo=Undertale&logoColor=eb4630) | 🧰 自动获取DNS提供商的域名及解析列表，同时自动获取每个域名解析的证书信息，并导出为Prometheus Metrics。已支持：Tencent，Aliyun，Godaddy，DNSLA，Amazon，Cloudflare |
+|    [JenkinsGuide](https://github.com/opsre/JenkinsGuide)     | ![](https://img.shields.io/github/stars/opsre/JenkinsGuide?color=f2f08d&logo=Undertale&logoColor=eb4630) |            🧰 Jenkins全知全解，与Jenkins相关的笔记            |
+|         [LiteOps](https://github.com/opsre/LiteOps)          | ![](https://img.shields.io/github/stars/opsre/LiteOps?color=f2f08d&logo=Undertale&logoColor=eb4630) |         轻量级DevOps平台。简单、高效的CI/CD解决方案          |
+| [version_manager](https://github.com/opsre/version_manager)  | ![](https://img.shields.io/github/stars/opsre/version_manager?color=f2f08d&logo=Undertale&logoColor=eb4630) |          一站式版本管理、文件存储与权限控制解决方案          |
