@@ -41,3 +41,4 @@
 |    [JenkinsGuide](https://github.com/opsre/JenkinsGuide)     | ![](https://img.shields.io/github/stars/opsre/JenkinsGuide?color=f2f08d&logo=Undertale&logoColor=eb4630) |            🧰 Jenkins全知全解，与Jenkins相关的笔记            |
 |         [LiteOps](https://github.com/opsre/LiteOps)          | ![](https://img.shields.io/github/stars/opsre/LiteOps?color=f2f08d&logo=Undertale&logoColor=eb4630) |         轻量级DevOps平台。简单、高效的CI/CD解决方案          |
 | [version_manager](https://github.com/opsre/version_manager)  | ![](https://img.shields.io/github/stars/opsre/version_manager?color=f2f08d&logo=Undertale&logoColor=eb4630) |          一站式版本管理、文件存储与权限控制解决方案          |
+| [ZenOps](https://github.com/opsre/ZenOps)  | ![](https://img.shields.io/github/stars/opsre/ZenOps?color=f2f08d&logo=Undertale&logoColor=eb4630) |          🧘 运维数据智能化查询工具         |
